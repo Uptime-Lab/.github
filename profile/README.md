@@ -1,3 +1,4 @@
+# About US
 **Uptime Lab** is a leading inivator of high-density and low-cost computing solutions for enterprise and enthusiast. Our mission is to empower organizations and Individuals with the tools and technology they need to achieve their goals, powering their innovation. With a team of experienced engineers and a commitment to excellence, we strive to deliver cutting-edge solutions that meet the needs of our customers today and tomorrow.
 
 ## Compute Blade
