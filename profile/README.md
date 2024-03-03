@@ -9,6 +9,6 @@ The Compute Blade is a powerful 1U carrier board designed for the Raspberry Pi C
 <div align="center">
   <br />
   <p>
-    <img src="https://uptime.industries/wp-content/uploads/2023/12/Compute-Blades-1200x615.png" height="200" alt="Compute Blades in a Rack" />
+    <img src="https://uptime.industries/wp-content/uploads/2023/12/Compute-Blades.png" height="400" alt="Compute Blades in a Rack" />
   </p>
 </div>
